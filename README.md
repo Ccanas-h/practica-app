@@ -90,4 +90,4 @@ func GetBio() Bio {
 
 ---
 
-⭐️ From [@AnhellO](https://github.com/Ccanas_h)
+⭐️ From [@Ccanas_h](https://github.com/Ccanas_h)
